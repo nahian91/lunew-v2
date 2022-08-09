@@ -20,7 +20,7 @@
             <div class="col-xxl-8">
             <div class="box bg-white p-3 border">
                         <ul>
-                            <li><i class="fa-solid fa-link"></i> E-Journal Link - <a href="https://www.research4life.org/" target="_blank">Click Here</a></li>
+                            <li><i class="fa-solid fa-link"></i> E-Resource Link - <a href="https://www.research4life.org/" target="_blank">Click Here</a></li>
                             <li><i class="fa-solid fa-user"></i> User Name: bgdR4L046</li>
                             <li><i class="fa-solid fa-key"></i> Password: t10005D</li>
                         </ul>

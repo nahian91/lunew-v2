@@ -19,23 +19,30 @@
         <div class="row">
             <div class="col-xxl-8">
             <div class="news-area">
-                        <h4 class="title">Newspaper</h4>
-                    <div class="news news-page bg-white p-3 border">
-                        <a href="https://www.bd-pratidin.com/" target="_blank"><img src="assets/img/newspaper/logo1.jpg" alt=""></a>
-                        <a href="https://www.bd-pratidin.com/" target="_blank"><img src="assets/img/newspaper/news2.jpg" alt=""></a>
-                        <a href="https://www.ittefaq.com.bd/" target="_blank"><img src="assets/img/newspaper/news3.jpg" alt=""></a>
-                        <a href="https://www.kalerkantho.com/" target="_blank"><img src="assets/img/newspaper/news4.jpg" alt=""></a>
-                        <a href="https://www.dailynayadiganta.com/" target="_blank"><img src="assets/img/newspaper/news5.jpg" alt=""></a>
-                        <a href="https://www.amarsangbad.com/" target="_blank"><img src="assets/img/newspaper/news6.jpg" alt=""></a>
-                        <a href="https://www.protidinersangbad.com/" target="_blank"><img src="assets/img/newspaper/news7.jpg" alt=""></a>
-                        <a href="https://www.jugantor.com/" target="_blank"><img src="assets/img/newspaper/news8.jpg" alt=""></a>
-                        <a href="https://dailysangram.com/" target="_blank"><img src="assets/img/newspaper/news9.jpg" alt=""></a>
-                        <a href="https://mzamin.com/" target="_blank"><img src="assets/img/newspaper/news10.jpg" alt=""></a>
-                        <a href="https://www.dainikamadershomoy.com/" target="_blank"><img src="assets/img/newspaper/news11.jpg" alt=""></a>
-                        <a href="https://www.bhorerkagoj.com/" target="_blank"><img src="assets/img/newspaper/news12.jpg" alt=""></a>
-                        <a href="https://www.thedailystar.net/" target="_blank"><img src="assets/img/newspaper/news13.jpg" alt=""></a>
-                        <a href="https://www.dhakatribune.com/" target="_blank"><img src="assets/img/newspaper/news14.jpg" alt=""></a>
-                        <a href="https://bangladeshpost.net/" target="_blank"><img src="assets/img/newspaper/news15.jpg" alt=""></a>
+                    <div class="news-page bg-white p-3 border">
+                     <h4 class="title">newspaper</h4>
+                        <div class="news">
+                        <a href="https://www.bd-pratidin.com/" target="_blank"><img src="assets/img/newspaper/news1.jpg" alt=""></a>
+                        <a href="https://epaper.ittefaq.com.bd/" target="_blank"><img src="assets/img/newspaper/news2.jpg" alt=""></a>
+                        <a href="https://epaper.samakal.com/" target="_blank"><img src="assets/img/newspaper/news3.jpg" alt=""></a>
+                        <a href="https://epaper.thedailystar.net" target="_blank"><img src="assets/img/newspaper/news4.jpg" alt=""></a>
+                        <a href="http://ekalerkantho.com" target="_blank"><img src="assets/img/newspaper/news5.jpg" alt=""></a>
+                        <a href="https://epaper.jugantor.com/" target="_blank"><img src="assets/img/newspaper/news6.jpg" alt=""></a>
+                        <a href="https://www.ebhorerkagoj.com/" target="_blank"><img src="assets/img/newspaper/news7.jpg" alt=""></a>
+                        <a href="http://edailyjanakantha.com/" target="_blank"><img src="assets/img/newspaper/news8.jpg" alt=""></a>
+                        <a href="https://eamarsangbad.com/" target="_blank"><img src="assets/img/newspaper/news9.jpg" alt=""></a>
+                        <a href="http://epaper.bangladesherkhabor.net/" target="_blank"><img src="assets/img/newspaper/news10.jpg" alt=""></a>
+                        <a href="https://www.dailyinqilab.com/epaper/" target="_blank"><img src="assets/img/newspaper/news11.jpg" alt=""></a>
+                        <a href="https://www.edailyjanobani.com/" target="_blank"><img src="assets/img/newspaper/news12.jpg" alt=""></a>
+                        <a href="https://www.deshrupantor.com/epaper/" target="_blank"><img src="assets/img/newspaper/news13.jpg" alt=""></a>
+                        <a href="https://www.ejjdin.com/" target="_blank"><img src="assets/img/newspaper/news14.jpg" alt=""></a>
+                        <a href="https://epaper.manobkantha.com.bd" target="_blank"><img src="assets/img/newspaper/news15.jpg" alt=""></a>
+                        <a href="https://epaper.protidinersangbad.com/" target="_blank"><img src="assets/img/newspaper/news16.jpg" alt=""></a>
+                        <a href="https://epaper.samakal.com/" target="_blank"><img src="assets/img/newspaper/news17.jpg" alt=""></a>
+                        <a href="http://sorejominbarta.com/epaper/" target="_blank"><img src="assets/img/newspaper/news18.jpg" alt=""></a>
+                        <a href="https://dainikazadi.net/" target="_blank"><img src="assets/img/newspaper/news19.jpg" alt=""></a>
+                        <a href="https://www.dhakatribune.com/" target="_blank"><img src="assets/img/newspaper/news20.jpg" alt=""></a>
+                        </div>
                     </div>
                     </div>
                     </div>

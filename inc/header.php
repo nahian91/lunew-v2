@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -31,12 +31,11 @@
                             <li><a href="index.php">Home</a>
                             <li class="has-child"><a href="#">Resources</a>
                                 <ul class="sub-menu">
-                                    <li><a href="https://www.wileyindia.com/Wiley_Online_Resources/UGC%20Bangladesh/UGC%20Bangladesh.html" target="_blank">E-Books</a></li>
-                                    <li><a href="e-resource.html">E-Resource</a></li>
+                                    <li><a href="https://www.wileyindia.com/Wiley_Online_Resources/UGC%20Bangladesh/UGC%20Bangladesh.php" target="_blank">E-Books</a></li>
+                                    <li><a href="e-resource.php">E-Resource</a></li>
                                     <li><a href="https://demo7.dspace.org/communities/074d9089-af29-414d-86b0-a20432dad99b" target="_blank">Institutional Repository (LU-DIR)</a></li>
-                                    <li><a href="newspaper.html">NewsPaper</a></li>
-                                    <li><a href="liberation-war.html" target="_blank">Liberation War</a></li>
-                                    <li><a href="https://www.lus.ac.bd/wp-content/uploads/2019/11/List-of-Muktijudhho-Books.pdf" target="_blank">Liberation War</a></li>
+                                    <li><a href="newspaper.php">NewsPaper</a></li>
+                                    <li><a href="liberation-war.php">Liberation War</a></li>
                                     <li><a href="https://www.lus.ac.bd/wp-content/uploads/2019/11/Ragib-Rabia-Korner-Book.pdf" target="_blank"> Ragib-Rabeya Corner Books.</a></li>
                                     <li><a href="#">Print Journals</a></li>
                                     <li><a href="#">Useful Website</a></li>
@@ -44,13 +43,12 @@
                             </li>
                             <li class="has-child"><a href="#">Services</a>
                                 <ul class="sub-menu">
-                                    <li><a href="borrowing-privileges.html">Borrowing Priviledge</a></li>
+                                    <li><a href="borrowing-privileges.php">Borrowing Priviledge</a></li>
                                     <li><a href="#">Renew Library Materials</a></li>
                                     <li><a href="#">Social Networks</a></li>
                                     <li><a href="#">Article Request</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#"></a></li>
                             <li class="has-child"><a href="#">Registration</a>
                                 <ul class="sub-menu">
                                     <li><a href="https://www.lus.ac.bd/wp-content/uploads/2019/10/Application-Form-for-Library-Membership.pdf" target="_blank">Library Membership <br> Online Application</a></li>
@@ -60,7 +58,7 @@
                             </li>
                             <li><a href="http://202.5.49.103/" target="_blank">Online Catalouge</a></li>
                             <li><a href="https://ndl.iitkgp.ac.in/" target="_blank">NDLI</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
                 </div>
