@@ -1,31 +1,34 @@
 <?php include 'inc/header.php'; ?>
-<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
-   <div class="carousel-indicators">
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-   </div>
+
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
    <div class="carousel-inner">
       <div class="carousel-item active">
-         <img src="..." class="d-block w-100" alt="...">
-         <div class="carousel-caption d-none d-md-block">
-            <h5>First slide label</h5>
-            <p>Some representative placeholder content for the first slide.</p>
-         </div>
+         <img src="assets/img/slider/slide1.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
-         <img src="..." class="d-block w-100" alt="...">
-         <div class="carousel-caption d-none d-md-block">
-            <h5>Second slide label</h5>
-            <p>Some representative placeholder content for the second slide.</p>
-         </div>
+         <img src="assets/img/slider/slide2.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
-         <img src="..." class="d-block w-100" alt="...">
-         <div class="carousel-caption d-none d-md-block">
-            <h5>Third slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-         </div>
+         <img src="assets/img/slider/slide3.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
+      </div>
+      <div class="carousel-item">
+         <img src="assets/img/slider/slide4.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
+      </div>
+      <div class="carousel-item">
+         <img src="assets/img/slider/slide5.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
+      </div>
+      <div class="carousel-item">
+         <img src="assets/img/slider/slide6.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
+      </div>
+      <div class="carousel-item">
+         <img src="assets/img/slider/slide7.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
       </div>
    </div>
    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
@@ -65,7 +68,7 @@
                <i class="fa-solid fa-book"></i>
                </span>
                <h3>E-Books</h3>
-               <a href="https://www.wileyindia.com/Wiley_Online_Resources/UGC%20Bangladesh/UGC%20Bangladesh.html">Read More</a>
+               <a href="https://www.wileyindia.com/Wiley_Online_Resources/UGC%20Bangladesh/UGC%20Bangladesh.html" target="_blank">Read More</a>
             </div>
          </div>
          <div class="col-md-3">
@@ -74,7 +77,7 @@
                <i class="fa-solid fa-book"></i>
                </span>
                <h3>E-Resource</h3>
-               <a href="e-resource.html">Read More</a>
+               <a href="e-resource.php">Read More</a>
             </div>
          </div>
          <div class="col-md-3">
@@ -83,7 +86,7 @@
                <i class="fa-solid fa-book"></i>
                </span>
                <h3>NewsPaper</h3>
-               <a href="newspaper.html">Read More</a>
+               <a href="newspaper.php">Read More</a>
             </div>
          </div>
          <div class="col-md-3">
@@ -92,7 +95,7 @@
                <i class="fa-solid fa-book"></i>
                </span>
                <h3>Liberation War</h3>
-               <a href="liberation-war.html">Read More</a>
+               <a href="liberation-war.php">Read More</a>
             </div>
          </div>
          <div class="col-md-3">
@@ -101,7 +104,7 @@
                <i class="fa-solid fa-book"></i>
                </span>
                <h3>Ragib-Rabeya Corner Books</h3>
-               <a href="https://www.lus.ac.bd/wp-content/uploads/2019/11/Ragib-Rabia-Korner-Book.pdf">Read More</a>
+               <a href="https://www.lus.ac.bd/wp-content/uploads/2019/11/Ragib-Rabia-Korner-Book.pdf" target="_blank">Read More</a>
             </div>
          </div>
          <div class="col-md-3">
@@ -128,7 +131,7 @@
                <i class="fa-solid fa-book"></i>
                </span>
                <h3>Institutional Repository <br> (LU-DIR)</h3>
-               <a href="#">Read More</a>
+               <a href="https://demo7.dspace.org/communities/eb87a6ec-7196-4c01-a2ac-d4ec787a6cf8" target="_blank">Read More</a>
             </div>
          </div>
       </div>
@@ -137,12 +140,12 @@
 <section class="book-area">
    <div class="container">
       <div class="row">
-         <div class="col-xxl-12 text-center">
+         <div class="col-xl-12 text-center">
             <h2 class="section-title">Popular Books</h2>
          </div>
       </div>
       <div class="row">
-         <div class="col-xxl-3">
+         <div class="col-xl-3">
             <div class="single-book">
                <div class="book-img" style="background-image:url('assets/img/book1.jpg')"></div>
                <div class="book-info">
@@ -152,7 +155,7 @@
                </div>
             </div>
          </div>
-         <div class="col-xxl-3">
+         <div class="col-xl-3">
             <div class="single-book">
                <div class="book-img" style="background-image:url('assets/img/book2.jpg')"></div>
                <div class="book-info">
@@ -162,7 +165,7 @@
                </div>
             </div>
          </div>
-         <div class="col-xxl-3">
+         <div class="col-xl-3">
             <div class="single-book">
                <div class="book-img" style="background-image:url('assets/img/book3.jpg')"></div>
                <div class="book-info">
@@ -172,7 +175,7 @@
                </div>
             </div>
          </div>
-         <div class="col-xxl-3">
+         <div class="col-xl-3">
             <div class="single-book">
                <div class="book-img" style="background-image:url('assets/img/book4.jpg')"></div>
                <div class="book-info">
@@ -183,7 +186,7 @@
                </div>
             </div>
          </div>
-         <div class="col-xxl-3">
+         <div class="col-xl-3">
             <div class="single-book">
                <div class="book-img" style="background-image:url('assets/img/book5.jpg')"></div>
                <div class="book-info">
@@ -193,7 +196,7 @@
                </div>
             </div>
          </div>
-         <div class="col-xxl-3">
+         <div class="col-xl-3">
             <div class="single-book">
                <div class="book-img" style="background-image:url('assets/img/book6.jpg')"></div>
                <div class="book-info">
@@ -203,7 +206,7 @@
                </div>
             </div>
          </div>
-         <div class="col-xxl-3">
+         <div class="col-xl-3">
             <div class="single-book">
                <div class="book-img" style="background-image:url('assets/img/book7.jpg')"></div>
                <div class="book-info">
@@ -213,7 +216,7 @@
                </div>
             </div>
          </div>
-         <div class="col-xxl-3">
+         <div class="col-xl-3">
             <div class="single-book">
                <div class="book-img" style="background-image:url('assets/img/book8.jpg')"></div>
                <div class="book-info">
@@ -229,7 +232,7 @@
 <section class="bottom-area">
    <div class="container">
       <div class="row">
-         <div class="col-xxl-6">
+         <div class="col-xl-6">
             <div id="carouselExampleControls" class="carousel slide bg-white p-3 border" data-bs-ride="carousel">
                <h4 class="title">Image Gallery</h4>
                <div class="carousel-inner">
@@ -259,7 +262,7 @@
                </button>
             </div>
          </div>
-         <div class="col-xxl-6">
+         <div class="col-xl-6">
             <div class="news-page home bg-white p-3 border">
                <h4 class="title">newspaper</h4>
                <div class="news">

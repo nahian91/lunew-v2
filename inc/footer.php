@@ -1,7 +1,7 @@
 <footer class="footer-area">
         <div class="container">
             <div class="row">
-                <div class="col-xxl-3">
+                <div class="col-xl-3 col-md-6">
                     <div class="single-footer">
                         <h4>all about us</h4>
                         <ul>
@@ -18,7 +18,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xxl-3">
+                <div class="col-xl-3 col-md-6">
                     <div class="single-footer">
                         <h4>USE Guides A-Z</h4>
                         <ul>
@@ -33,7 +33,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xxl-3">
+                <div class="col-xl-3 col-md-6">
                     <div class="single-footer">
                     <h4>Resources A-Z</h4>
                         <ul>
@@ -47,7 +47,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xxl-3">
+                <div class="col-xl-3 col-md-6">
                     <div class="single-footer">
                     <h4>Contact Us</h4>
                         <ul class="footer-address">
@@ -71,7 +71,7 @@
     <section class="footer-copy">
         <div class="container">
             <div class="row">
-                <div class="col-xxl-12">
+                <div class="col-xl-12">
                     <p>&copy; 2022. All rights reserved. Developed by <a href="https://www.infinityflamesoft.com/" target="_blank">Infinity Flame Soft</a></p>
                 </div>
             </div>
@@ -79,9 +79,9 @@
     </section>
 
     <script src="assets/js/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>
-
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/slicknav.min.js"></script>
     <script src="assets/js/main.js"></script>
 </body>
 </html>

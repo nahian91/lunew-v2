@@ -7,20 +7,21 @@
     <title>Document</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/slicknav.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
     <header class="header-area">
         <div class="container">
             <div class="row">
-                <div class="col-xxl-3">
+                <div class="col-xl-3 col-md-2">
                     <div class="logo">
                         <a href="">
                             <img src="assets/img/logo.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-xxl-9">
+                <div class="col-xl-9 col-md-10">
                     <div class="header-top">
                         <a href="tel:01312113214"><i class="fa fa-phone"></i>01312113214</a>
                         <span>/</span>
@@ -33,12 +34,13 @@
                                 <ul class="sub-menu">
                                     <li><a href="https://www.wileyindia.com/Wiley_Online_Resources/UGC%20Bangladesh/UGC%20Bangladesh.php" target="_blank">E-Books</a></li>
                                     <li><a href="e-resource.php">E-Resource</a></li>
-                                    <li><a href="https://demo7.dspace.org/communities/074d9089-af29-414d-86b0-a20432dad99b" target="_blank">Institutional Repository (LU-DIR)</a></li>
+                                    <li><a href="https://demo7.dspace.org/communities/eb87a6ec-7196-4c01-a2ac-d4ec787a6cf8" target="_blank">Institutional Repository (LU-DIR)</a></li>
                                     <li><a href="newspaper.php">NewsPaper</a></li>
                                     <li><a href="liberation-war.php">Liberation War</a></li>
-                                    <li><a href="https://www.lus.ac.bd/wp-content/uploads/2019/11/Ragib-Rabia-Korner-Book.pdf" target="_blank"> Ragib-Rabeya Corner Books.</a></li>
-                                    <li><a href="#">Print Journals</a></li>
-                                    <li><a href="#">Useful Website</a></li>
+                                    <li><a href="assets/img/pdf/ragib-rabeya-corner-book-list.pdf" target="_blank"> Ragib-Rabeya Corner Books</a></li>
+                                    <li><a href="assets/img/pdf/subjectguide-alphabetical.pdf" target="_blank"> Subjectguide Alphabetical Books</a></li>
+                                    <li><a href="location-books.php">Location of Books</a></li>
+                                    <li><a href="arrangement-books.php">Arrangement of Books</a></li>
                                 </ul>
                             </li>
                             <li class="has-child"><a href="#">Services</a>
