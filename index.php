@@ -7,7 +7,7 @@
          <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
-         <img src="assets/img/slider/slide2.jpg" class="d-block w-100" alt="...">
+         <img src="assets/img/slider/slide9.jpg" class="d-block w-100" alt="...">
          <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
@@ -28,6 +28,14 @@
       </div>
       <div class="carousel-item">
          <img src="assets/img/slider/slide7.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
+      </div>
+      <div class="carousel-item">
+         <img src="assets/img/slider/slide8.jpg" class="d-block w-100" alt="...">
+         <h4>Read - Learn - Discover</h4>
+      </div>
+      <div class="carousel-item">
+         <img src="assets/img/slider/slide2.jpg" class="d-block w-100" alt="...">
          <h4>Read - Learn - Discover</h4>
       </div>
    </div>

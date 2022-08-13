@@ -53,9 +53,7 @@
                   </button>
                <br><br><br>
                <h4 class="title">Liberation War Corner</h4>
-               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At neque laudantium consequatur architecto placeat. Cumque saepe reprehenderit a dolorem reiciendis.</p>
-               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At neque laudantium consequatur architecto placeat. Cumque saepe reprehenderit a dolorem reiciendis.</p>
-               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At neque laudantium consequatur architecto placeat. Cumque saepe reprehenderit a dolorem reiciendis.</p>
+               <p>Liberation War Corner established in Leading University to spread the history glorious history of the birth of Bangladesh, the Liberation war. The main target of this corner is to enrich the present generation with the information  about the history of Liberation War and assist in research. The corner was designed with the spirit of Liberation War and contain a rich number of books.</p>
                </div>
             </div>
             <div class="col-md-4">
@@ -70,7 +68,7 @@
                   <h4 class="title">Useful Information</h4>
                   <ul>
                      <li><a href="http://www.liberationwarmuseumbd.org">Liberation War Museum</a></li>
-                     <li><a href="http://www.molwa.gov.bd/" target="_blank">inistry of Liberation War</a></li>
+                     <li><a href="http://www.molwa.gov.bd/" target="_blank">Ministry of Liberation War</a></li>
                      <li><a href="http://en.banglapedia.org/index.php?title=War_of_Liberation,_The">Banglapedia</a></li>
                      <li><a href="https://en.wikipedia.org/wiki/Bangladesh_Liberation_War" target="_blank">Wikipedia</a></li>
                      <li><a href="http://www.liberationwarbangladesh.org/">মুক্তিযুদ্ধ ই-আর্কাইভ</a></li>
