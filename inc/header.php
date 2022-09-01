@@ -32,7 +32,7 @@
                             <li><a href="index.php">Home</a>
                             <li class="has-child"><a href="#">Resources</a>
                                 <ul class="sub-menu">
-                                    <li><a href="https://www.wileyindia.com/Wiley_Online_Resources/UGC%20Bangladesh/UGC%20Bangladesh.php" target="_blank">E-Books</a></li>
+                                    <li><a href="https://www.wileyindia.com/Wiley_Online_Resources/UGC%20Bangladesh/UGC%20Bangladesh.html" target="_blank">E-Books</a></li>
                                     <li><a href="e-resource.php">E-Resource</a></li>
                                     <li><a href="https://demo7.dspace.org/communities/eb87a6ec-7196-4c01-a2ac-d4ec787a6cf8" target="_blank">Institutional Repository (LU-DIR)</a></li>
                                     <li><a href="newspaper.php">NewsPaper</a></li>

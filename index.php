@@ -3,39 +3,27 @@
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
    <div class="carousel-inner">
       <div class="carousel-item active">
-         <img src="assets/img/slider/slide1.jpg" class="d-block w-100" alt="...">
+         <img src="assets/img/slider/slide1.jpg" class="d-block w-100" alt="Slide 1">
          <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
-         <img src="assets/img/slider/slide9.jpg" class="d-block w-100" alt="...">
+         <img src="assets/img/slider/slide2.jpg" class="d-block w-100" alt="Slide 2">
          <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
-         <img src="assets/img/slider/slide3.jpg" class="d-block w-100" alt="...">
+         <img src="assets/img/slider/slide3.jpg" class="d-block w-100" alt="Slide 3">
          <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
-         <img src="assets/img/slider/slide4.jpg" class="d-block w-100" alt="...">
+         <img src="assets/img/slider/slide4.jpg" class="d-block w-100" alt="Slide 4">
          <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
-         <img src="assets/img/slider/slide5.jpg" class="d-block w-100" alt="...">
+         <img src="assets/img/slider/slide5.jpg" class="d-block w-100" alt="Slide 5">
          <h4>Read - Learn - Discover</h4>
       </div>
       <div class="carousel-item">
-         <img src="assets/img/slider/slide6.jpg" class="d-block w-100" alt="...">
-         <h4>Read - Learn - Discover</h4>
-      </div>
-      <div class="carousel-item">
-         <img src="assets/img/slider/slide7.jpg" class="d-block w-100" alt="...">
-         <h4>Read - Learn - Discover</h4>
-      </div>
-      <div class="carousel-item">
-         <img src="assets/img/slider/slide8.jpg" class="d-block w-100" alt="...">
-         <h4>Read - Learn - Discover</h4>
-      </div>
-      <div class="carousel-item">
-         <img src="assets/img/slider/slide2.jpg" class="d-block w-100" alt="...">
+         <img src="assets/img/slider/slide6.jpg" class="d-block w-100" alt="Slide 6">
          <h4>Read - Learn - Discover</h4>
       </div>
    </div>
@@ -245,19 +233,40 @@
                <h4 class="title">Image Gallery</h4>
                <div class="carousel-inner">
                   <div class="carousel-item active">
-                     <img src="assets/img/foot-slide1.jpg" class="d-block w-100" alt="...">
+                     <img src="assets/img/foot-slide1.jpg" class="d-block w-100" alt="Slider 1">
                   </div>
                   <div class="carousel-item">
-                     <img src="assets/img/foot-slide2.jpg" class="d-block w-100" alt="...">
+                     <img src="assets/img/foot-slide2.jpg" class="d-block w-100" alt="Slider 2">
                   </div>
                   <div class="carousel-item">
-                     <img src="assets/img/foot-slide3.jpg" class="d-block w-100" alt="...">
+                     <img src="assets/img/foot-slide3.jpg" class="d-block w-100" alt="Slider 3">
                   </div>
                   <div class="carousel-item">
-                     <img src="assets/img/foot-slide4.jpg" class="d-block w-100" alt="...">
+                     <img src="assets/img/foot-slide4.jpg" class="d-block w-100" alt="Slider 4">
                   </div>
                   <div class="carousel-item">
-                     <img src="assets/img/foot-slide5.jpg" class="d-block w-100" alt="...">
+                     <img src="assets/img/foot-slide5.jpg" class="d-block w-100" alt="Slider 5">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="assets/img/foot-slide6.jpg" class="d-block w-100" alt="Slider 6">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="assets/img/foot-slide7.jpg" class="d-block w-100" alt="Slider 7">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="assets/img/foot-slide8.jpg" class="d-block w-100" alt="Slider 8">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="assets/img/foot-slide9.jpg" class="d-block w-100" alt="Slider 9">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="assets/img/foot-slide10.jpg" class="d-block w-100" alt="Slider 10">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="assets/img/foot-slide11.jpg" class="d-block w-100" alt="Slider 11">
+                  </div>
+                  <div class="carousel-item">
+                     <img src="assets/img/foot-slide12.jpg" class="d-block w-100" alt="Slider 12">
                   </div>
                </div>
                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
